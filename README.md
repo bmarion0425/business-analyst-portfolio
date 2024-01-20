@@ -1,6 +1,7 @@
 # business-analyst-portfolio
 ## Certificates
-- [Professional Scrum Master PSM I](certificates/ProfessionalScrumMasterI/ProfessionalScrumMasterI.pdf) - Scrum.org 2022
+- [Professional Scrum Master Certification](folder/certificates/Professional%20Scrum%20Master/Professional%20Scrum%20Master.pdf)
+
 
 
 
